@@ -1,11 +1,11 @@
 ---
-title: "MD Nurul Kadir"
+title: "Md Nurul Kadir"
 layout: single
 permalink: /people/mdnkadir/
 
 
 # Includes author profile in sidebar
-author: MD Nurul Kadir
+author: Md Nurul Kadir
 author_profile: true
 
 classes: wide
